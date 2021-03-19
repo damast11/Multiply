@@ -1,0 +1,1 @@
+@echo off javac src/main/java/Main.java java Main
